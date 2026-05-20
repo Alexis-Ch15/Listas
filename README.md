@@ -1,0 +1,4 @@
+- El sigueiten proyecto es para llevar el registro de estudiantes y docentes por medio de su nombre, cedula, carrera y asinatura
+- El sistema se clasifica en 3 archivos
+- Clases docente, estudiante y persona(clase padre)
+- El main es donde se ejecuta la logica del programa
